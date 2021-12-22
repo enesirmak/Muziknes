@@ -1,0 +1,12 @@
+Tamamen kendim yapacak kadar yeterli bilgim olmadığı için ödevi youtube den video izleyerek yardım alarak yaptım
+görsel ve icon tarzı şeyleri kendim yaptım türkçe dilini kendim kodlama dan ekledim tüm kelimeler gelmediği için
+bir çok kelimeyi elimle ingilizceden türkçeye çevirdim 
+geri kalan 5 6 dili videouyu çeken kişi eklediği için ekledim
+videyu çeken adam hintli olduğu için müzik apilerinde hintçe müzikler de var
+youtube ve spotify benzeri birşey uygulama içinde mevcut
+onları türkçe yapabilsem de home ekranı giriş yerleri genel olarak ingilizeydi diğer diller de
+home ekranı çevrilse de onu da kendim çözdüm araştırarak elimden bu kadarı geldi 
+günlerce uğraştım daha fazlasını yapamazdım
+çok hata aldım çünkü youtube ve spotify benzeri yerler başka bir yerden api alıyordu
+ve vide ingilizce çekildiği için anlamakta zorluk çektiğimden zor da olsa bakarak yaptım
+Ben beğendim umarım siz de beğenirsiniz  
